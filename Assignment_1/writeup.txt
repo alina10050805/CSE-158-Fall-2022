@@ -1,0 +1,5 @@
+Read Prediction:
+	Get all ratings from the file and separate the ratings to train and valid. Count the number of time each book be read and find the popular list of book. Set all book that the user read to 1, and get a random book from the user not read and set to 0. Use the return1 set to fend the best threshold of popular and use the threshold to set the return1. Use the return1 set by threshold for popular and jaccard to find the best threshold of jaccard for max similar users between two book. Finally, use the threshold for popular and jaccard to predictions data from pairs_Read.
+
+Category Prediction:
+	Loop each data splited and use stemmer and stop word method to count each word. The counts of words will be the popular list of words. Pick first 40,000 words form counts of words and use it to build the feature with stemmer. Then, get the X and y by using the feature and build a linear model by using c=0.1. Finally, use the modal we build to predictions data form pairs_Category.
