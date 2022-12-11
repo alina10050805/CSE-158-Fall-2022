@@ -28,7 +28,7 @@ Link to [Course Website](https://cseweb.ucsd.edu/classes/fa22/cse258-a/)
 |       |Style  |Requirement   |Code   |Writeup/Report   |Score  |
 |:------|:------|:-------------|:-------------|:----------|:------|
 |Assignment 1    |Individually  |[Requirement](./Assignment_1/assignment1.pdf) |[ipynb](./Assignment_1/assignment1.ipynb) and [py](./Assignment_1/assignment1.py)   |[Writeup](./Assignment_1/writeup.txt), [Predictions Category](./Assignment_1/predictions_Category.csv), and [Predictions Read](./Assignment_1/predictions_Read.csv)   |25/25    |
-|Assignment 2    |Group of 4 people  |[Requirement](./Assignment_2/assignment2.pdf) |[ipynb for prediction](./Assignment_2/A.ipynb) and [ipynb for analysis dataset](./Assignment_2/rating.ipynb)   |[Report](./Assignment_2/CSE_158_Assignment_2.pdf)   |--    |
+|Assignment 2    |Group of 4 people  |[Requirement](./Assignment_2/assignment2.pdf) |[ipynb for prediction](./Assignment_2/A.ipynb) and [ipynb for analysis dataset](./Assignment_2/rating.ipynb)   |[Report](./Assignment_2/CSE_158_Assignment_2.pdf)   |22.5/25    |
 
 ## Midterm
 
